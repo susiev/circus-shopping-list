@@ -1,1 +1,6 @@
 cerceau
+tape
+swivel
+strap
+rope
+95 hoop
