@@ -1,1 +1,5 @@
 trapeze
+ropes
+carabiner
+tape
+roisin
